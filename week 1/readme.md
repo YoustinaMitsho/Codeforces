@@ -9,9 +9,9 @@
 |problem D              |sloved :heavy_check_mark:   |
 |problem E              |sloved :heavy_check_mark:   |
 |problem F              |sloved :heavy_check_mark:   |
-|problem G              |unsloved :x:   |
-|problem H              |unsloved :x:   |
-|problem I              |unsloved :x:   |
+|problem G              |sloved :heavy_check_mark:   |
+|problem H              |sloved :heavy_check_mark:   |
+|problem I              |sloved :heavy_check_mark:   |
 |problem J              |unsloved :x:   |
 |problem K              |unsloved :x:   |
 |problem L              |unsloved :x:   |

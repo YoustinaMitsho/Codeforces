@@ -1,6 +1,6 @@
 /*
 Problem link: https://codeforces.com/group/048Nd2lQKb/contest/411177/problem/G
-Problem status: Error on test 3
+Problem status: Accepted
 By: Youstina Mitsho
 */
 
