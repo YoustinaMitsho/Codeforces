@@ -1,0 +1,10 @@
+# Codeforces problems: 
+## practice sheet week 1: https://codeforces.com/group/048Nd2lQKb/contest/411175
+
+| Problem               | Status                     |
+| --------------------- | -------------------------- |
+|problem A              |sloved :heavy_check_mark:   |
+|problem B              |sloved :heavy_check_mark:   |
+|problem C              |sloved :heavy_check_mark:   |
+|problem D              |sloved :heavy_check_mark:   |
+|problem E              |sloved :heavy_check_mark:   |
