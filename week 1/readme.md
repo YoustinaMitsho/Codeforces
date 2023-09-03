@@ -18,5 +18,5 @@
 |problem M              |sloved :heavy_check_mark:   |
 |problem N              |sloved :heavy_check_mark:   |
 |problem O              |sloved :heavy_check_mark:   |
-|problem P              |unsloved :x:   |
+|problem P              |sloved :heavy_check_mark:   |
 
