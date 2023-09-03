@@ -15,7 +15,7 @@
 |problem J              |unsloved :x:   |
 |problem K              |sloved :heavy_check_mark:   |
 |problem L              |sloved :heavy_check_mark:   |
-|problem M              |unsloved :x:   |
+|problem M              |sloved :heavy_check_mark:   |
 |problem N              |sloved :heavy_check_mark:   |
 |problem O              |sloved :heavy_check_mark:   |
 |problem P              |unsloved :x:   |
