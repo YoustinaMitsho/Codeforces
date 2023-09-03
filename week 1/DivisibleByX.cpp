@@ -10,7 +10,6 @@ using namespace std;
 int main(){
     long long a, b, x; cin >> a >> b >> x;
     long long c = max(a,b), d = min(a,b);
-    c = c/x; d = d/x;
-    long long counter = c - d;
-    cout << counter;
+    if(d % x == 0) cout << (c / x) - (d / x) + 1;
+    else cout << (c / x) - (d / x);
 }
