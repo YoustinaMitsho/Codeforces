@@ -12,11 +12,10 @@
 |problem G              |sloved :heavy_check_mark:   |
 |problem H              |sloved :heavy_check_mark:   |
 |problem I              |sloved :heavy_check_mark:   |
-|problem J              |unsloved :x:   |
+|problem J              |sloved :heavy_check_mark:   |
 |problem K              |sloved :heavy_check_mark:   |
 |problem L              |sloved :heavy_check_mark:   |
 |problem M              |sloved :heavy_check_mark:   |
 |problem N              |sloved :heavy_check_mark:   |
 |problem O              |sloved :heavy_check_mark:   |
 |problem P              |sloved :heavy_check_mark:   |
-
