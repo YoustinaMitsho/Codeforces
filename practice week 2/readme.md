@@ -6,5 +6,5 @@
 |problem A              |sloved :heavy_check_mark:   |
 |problem B              |sloved :heavy_check_mark:   |
 |problem C              |sloved :heavy_check_mark:   |
-|problem D              |unsloved :x:   |
-|problem E              |unsloved :x:   |
+|problem D              |sloved :heavy_check_mark:   |
+|problem E              |sloved :heavy_check_mark:   |

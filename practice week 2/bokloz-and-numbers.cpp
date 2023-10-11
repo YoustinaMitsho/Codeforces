@@ -1,5 +1,5 @@
 /*
-Problem link: https://codeforces.com/group/048Nd2lQKb/contest/412612/problem/BS
+Problem link: https://codeforces.com/group/048Nd2lQKb/contest/412612/problem/B
 Problem status: Accepted
 By: Youstina Mitsho
 */

@@ -12,7 +12,7 @@ void trop_counter(int n){
         if(i != n-1)
             cout << n << " ";
         else
-            cout << n;
+            cout << n << endl;
     }
     
 }
